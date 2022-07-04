@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 750px;
+   
+}
+header {
+    width: 100%;
+    height: 100px;
+    background-color: #345ea8;
+}
+main {
+    width: 750px;
+    display: flex;
+}
+.menu__esquerdo {
+    width: 20%;
+    height: 400px;
+    background-color: #4ab4de;
+}
+.conteudo {
+    width: 60%;
+    height: 500px;
+    background-color: #eedbcb;
+}
+.menu__direito {
+    width: 20%;
+    height: 400px;
+    background-color: #4ab4de;
+}
